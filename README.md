@@ -32,5 +32,3 @@ Based on a combination of explanatory power, predictive power and result speed I
 
 One area for improvement would be to increase the hardware capability of the machine running this model. This would allow for more extensive hyperparameter tuning and testing of higher order polynomial regression. In addition, if I had more time to increase my domain knowledge I may have identified opportunities to combine features to improve model accuracy.
 
-### Screenshots
-
